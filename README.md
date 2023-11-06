@@ -1,3 +1,6 @@
+Version 1.0
+
+
 Hi, I am here
 
 # GitTestRepo
