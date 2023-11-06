@@ -7,6 +7,8 @@ my code line 2
 
 my code line 3 (Add feature to increase hours of the day)
 
-Code line 4 for feature-CCode line 4 for feature-C
+Code line 4 for feature-C
 
 Code line 5 for feature-C
+
+Code line 6 for feature-C
